@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Raleway-Light';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Raleway-Light'),
+    url('../fonts/Raleway-Light.woff2') format('woff2'),
+    url('../fonts/Raleway-Light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Raleway-Medium';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Raleway-Medium'),
+    url('../fonts/Raleway-Medium.woff2') format('woff2'),
+    url('../fonts/Raleway-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'RobotoCondensed-Light';
+  font-weight: 300;
+  font-style: normal;
+  src: local('RobotoCondensed-Light'),
+    url('../fonts/RobotoCondensed-Light.woff2') format('woff2'),
+    url('../fonts/RobotoCondensed-Light.woff') format('woff');
+  font-display: swap;
+}
+
